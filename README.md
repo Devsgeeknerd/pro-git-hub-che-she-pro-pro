@@ -35,6 +35,28 @@ Lançado em 2008, o GitHub permite que desenvolvedores colaborem em projetos, co
 
 * **GitHub Actions:** Automação de fluxos de trabalho, como integração continua e entrega contínua (CI/CD).
 
+**Boas Práticas no uso de Git e GitHub:**
+
+* **Commits Frequentes e Significativos:** Realize commits pequenos e frequentes com mensagens claras que expliquem as alterações.
+
+* **Uso de Branches:** Crie branches para novas funcionalidades ou correções, mantendo o branch principal (main ou master) limpo e estável.
+
+* **Pull Requests:** Utilize pull requests para revisar e discutir alterações antes de mesclá-las ao branch principal.
+
+* **Mensagens de Commit Claras:** Escreva mensagens que expliquem o "o que" e "por que" das alterações.
+
+* **Documentação:** Mantenha uma documentação clara e atualizada, incluindo um arquivo README que explique como configurar e usar o projeto.
+
+* **Gerenciamento de Issues:** Utilize o sistema de issues do GitHub para rastrear bugs e solicitações de funcionalidades, organizando o trabalho e priorizando tarefas.
+
+* **Revisão de Código:** Incentive a revisão de código entre os membros da equipe para melhorar a qualidade do código e promover aprendizado.
+
+* **Sincronização Regular:** Mantenha seu repositório local sincronizado com o remoto, usando `git pull` regularmente.
+
+* **Tags e Releases:** Use tags para marcar versões específicas do projeto, facilitando o gerenciamento de versões e a comunicação sobre novas funcionalidades ou correções.
+
+* **Segurança:** Evite armazenar informações sensíveis no repositório, utilizando arquivos de configuração que não sejam versionados (como `.env`).
+
 <!-- Informações -->
 ## &#8505; Informações
 
