@@ -1,7 +1,7 @@
 <!-- Título -->
 # Git & GitHub
 
-O que é Git?
+**O que é Git?**
 
 Git é um sistema de controle de versão distribuído, desenvolvido por Linus Torvalds em 2005.
 
@@ -9,7 +9,7 @@ Ele permite que múltiplos desenvolvedores trabalhem simultaneamente em um proje
 
 O Git rastreia alterações no código-fonte ao longo do tempo, possibilitando reverter para versões anteriores, comparar modificações e colaborar de forma eficiente.
 
-Principais Caraterísticas do Git:
+**Principais Caraterísticas do Git:**
 
 * **Distribuído:** Cada desenvolvedor possui uma cópia completa do repositório, incluindo seu histórico, permitindo trabalho offline.
 
@@ -19,7 +19,21 @@ Principais Caraterísticas do Git:
 
 * **Mesclagem (Merge):** Facilita a combinação de alterações de diferentes ramificações, resolvendo conflitos quando necessários.
 
-<!-- O que é GitHub? -->
+**O que é GitHub?**
+
+GitHub é uma plataforma de hospedagem de código-fonte que utiliza o Git como sistema de controle de versão.
+
+Lançado em 2008, o GitHub permite que desenvolvedores colaborem em projetos, compartilhem código e gerenciem repositórios de forma eficiente, oferecendo uma interface web intuitiva.
+
+**Principais Caraterísticas do GitHub:
+
+* **Repositórios:** Criação de repositórios públicos ou privados para armazenar projetos.
+
+* **Colaboração:** Facilita a colaboração através de pull requests, onde alterações propostas podem ser revisadas antes de serem integradas ao projeto principal.
+
+* **Issues:** Sistema de rastreamento de problemas para relatar bugs, solicitar funcionalidades e discutir melhorias.
+
+* **GitHub Actions:** Automação de fluxos de trabalho, como integração continua e entrega contínua (CI/CD).
 
 <!-- Informações -->
 ## &#8505; Informações
