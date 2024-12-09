@@ -57,6 +57,27 @@ Lançado em 2008, o GitHub permite que desenvolvedores colaborem em projetos, co
 
 * **Segurança:** Evite armazenar informações sensíveis no repositório, utilizando arquivos de configuração que não sejam versionados (como `.env`).
 
+| COMANDOS | DESCRIÇÃO |
+| :------- | :-------- |
+| `git init` | Inicializa um novo repositório Git em um diretório. |
+| `git clone <url>` | Cria uma cópia local de um repositório remoto. O <url> pode ser um link para um repositório no GitHub, GitLab, etc. |
+| `git status` | Mostra o estado atual do repositório, incluindo arquivos modificados, não rastreados e prontos para commit. |
+| `git add <arquivo>` | Adiciona um ou mais arquivos ao índice (staging area) para serem incluídos no próximo commit. |
+| `git add .` | Adicionar todos os arquivos modificados. |
+| `git commit -m "mensagem"` | Cria um novo commit com as alterações adicionadas ao índice, usando a mensagem fornecida para descrever o commit. |
+| `git log` | Exibe o histórico de commits do repositório, mostrando informações como o hash do commit, autor, data e mensagem. |
+| `git diff` | Mostra as diferenças entre as alterações não comitadas e a última versão do commit. |
+| `git diff <arquivo>` | Mostra as diferenças entre as alterações não comitadas e a última versão do commit em um arquivo específico. |
+| `git branch` | Lista todas as branches no repositório. |
+| `git branch <nome-da-branch>` | Cria uma nova branch. |
+| `git checkout <nome-da-branch>` | Muda para a branch específica. |
+| `git checkout -b <nome-da-branch>` | Cria e muda para a nova branch criada. |
+| `git merge <nome-da-branch>` | Mescla as alterações da branch especificada na branch atual. |
+| `git pull` | Atualiza a branch local com as alterações do repositório remoto. É uma combinação de `git fetch` e `git merge`. |
+| `git push` | Envia os commits da branch local para o repositório remoto. |
+| `git remote -v` | Lista os repositórios remotos associados ao repositório local, mostrando suas URLs. |
+| `` |  |
+
 <!-- Informações -->
 ## &#8505; Informações
 
